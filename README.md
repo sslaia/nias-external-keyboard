@@ -6,12 +6,12 @@ Adds Nias characters ŵ and ö (plus German umlaut as well as € and £ charact
 
 It uses US intl. keyboard layout and AltGr key combination to get the additional characters:
 
- ŵ: AltGr+w
- ö: AltGr+o
- ä: AltGr+a
- ü: AltGr+u
- €: AltGr+e
- £: AltGr+l
+- ŵ: AltGr+w
+- ö: AltGr+o
+- ä: AltGr+a
+- ü: AltGr+u
+- €: AltGr+e
+- £: AltGr+l
 
 
 ## Version's history

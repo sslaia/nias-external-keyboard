@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name">Nias External Keyboard</string>
+	<string name="keyboard_layouts_label">Nias external keyboard</string>
+	<string name="keyboard_layout_nias">Nias</string>
+</resources>
